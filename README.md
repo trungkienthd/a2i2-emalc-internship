@@ -1,9 +1,9 @@
 # A2I2-EMALC-Internship
 
 > **Embedding Models for Addressing Linguistic Challenges (EMALC)**  
-> Internship project at A2I2 (Applied Artificial Intelligence Institute)  
-> Intern: [Your Name] | Mentors: Sheng Wong, Scott Barnett  
-> Duration: [Insert dates, e.g., Jan–May 2025]
+> Internship project at A2I2 (Applied Artificial Intelligence Institute) - Deakin University
+> Intern: Trung Kien Nguyen | Mentor: Dr. Scott Barnett  
+> Duration: [Sep–Dec 2024]
 
 ---
 
